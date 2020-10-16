@@ -6,7 +6,7 @@ import br.com.daniel.filmespopularesmvp.data.mapper.FilmeMapper;
 import br.com.daniel.filmespopularesmvp.data.model.Filme;
 
 import br.com.daniel.filmespopularesmvp.data.network.ApiService;
-import br.com.daniel.filmespopularesmvp.data.network.response.response.FilmesResult;
+import br.com.daniel.filmespopularesmvp.data.network.response.FilmesResult;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

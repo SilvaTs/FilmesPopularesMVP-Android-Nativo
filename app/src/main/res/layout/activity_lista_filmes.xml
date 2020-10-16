@@ -15,7 +15,8 @@
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
         app:elevation="4dp"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        app:titleTextColor="@color/colorAccent"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_filmes"

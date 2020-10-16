@@ -1,4 +1,4 @@
-package br.com.daniel.filmespopularesmvp.data.network.response.response;
+package br.com.daniel.filmespopularesmvp.data.network.response;
 
 import com.squareup.moshi.Json;
 

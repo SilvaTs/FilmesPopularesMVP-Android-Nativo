@@ -1,7 +1,6 @@
 package br.com.daniel.filmespopularesmvp.data.network;
 
-
-import br.com.daniel.filmespopularesmvp.data.network.response.response.FilmesResult;
+import br.com.daniel.filmespopularesmvp.data.network.response.FilmesResult;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;

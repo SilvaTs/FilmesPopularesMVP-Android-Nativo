@@ -1,4 +1,4 @@
-package br.com.daniel.filmespopularesmvp.data.network.response.response;
+package br.com.daniel.filmespopularesmvp.data.network.response;
 
 import com.squareup.moshi.Json;
 
@@ -13,7 +13,7 @@ public class FilmesResult {
         this.resultadoFilmes = resultadoFilmes;
     }
 
-    public List<br.com.daniel.filmespopularesmvp.data.network.response.response.FilmeResponse> getResultadoFilmes() {
+    public List<FilmeResponse> getResultadoFilmes() {
         return resultadoFilmes;
     }
 }

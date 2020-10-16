@@ -2,9 +2,9 @@ package br.com.daniel.filmespopularesmvp.data.mapper;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import br.com.daniel.filmespopularesmvp.data.model.Filme;
-import br.com.daniel.filmespopularesmvp.data.network.response.response.FilmeResponse;
+import br.com.daniel.filmespopularesmvp.data.network.response.FilmeResponse;
+
 public class FilmeMapper {
 
     public static List<Filme> deResponseParaDominio(List<FilmeResponse> listaFilmeResponse) {
