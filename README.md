@@ -1,10 +1,5 @@
 <h1 align="center">Aplicativo para Listar Filmes </h1>
 
-<h3 align="center"> 
-  <img src="![filmes](https://user-images.githubusercontent.com/47439833/96356855-4149fd80-10c2-11eb-868d-945abee6ef70.JPG)
-"> </img>
-</h3>
-
 ---
 Indice
 - [ Sobre](#-sobre)
