@@ -1,7 +1,6 @@
 package br.com.daniel.filmespopularesmvp.ui.listafilmes;
 
 import java.util.List;
-
 import br.com.daniel.filmespopularesmvp.data.model.Filme;
 
 public interface ListaFilmesContrato {
