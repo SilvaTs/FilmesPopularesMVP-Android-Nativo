@@ -1,4 +1,4 @@
-<h3 align="center">Aplicativo para Listar Filmes </h3>
+<h4 align="center">Aplicativo para Listar Filmes </h4>
 
 <h3 align="center"> 
   <img src="![filmes](https://user-images.githubusercontent.com/47439833/96356855-4149fd80-10c2-11eb-868d-945abee6ef70.JPG)
@@ -7,18 +7,18 @@
 
 ---
 Indice
-- [😊 Sobre](#-sobre)
-- [🚀 Tecnologias e Ferramentas utilizadas](#-tecnologias-e-ferramentas-utilizadas)
-- [📑 Como baixar o projeto](#-como-baixar-o-projeto)
+- [ Sobre](#-sobre)
+- [ Tecnologias e Ferramentas utilizadas](#-tecnologias-e-ferramentas-utilizadas)
+- [ Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
 
-## 😊 Sobre
+##  Sobre
 Um projeto para colocar em prática todos os conceitos da arquitetura mvp. 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas utilizadas
+##  Tecnologias e Ferramentas utilizadas
 
 - [Java](https://docs.oracle.com/javase/7/docs/api/)
 - [Retrofit Library](https://github.com/square/retrofit)
@@ -28,7 +28,7 @@ Um projeto para colocar em prática todos os conceitos da arquitetura mvp.
   
 ---
 
-## 📑 Como baixar o projeto
+##  Como baixar o projeto
 
   ```bash
   #Clonar o repositório
