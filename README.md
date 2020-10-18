@@ -14,7 +14,7 @@ Indice
 ---
 
 ##  Sobre
-Um projeto para colocar em prática todos os conceitos da arquitetura mvp. 
+Um projeto simples para colocar em prática os conceitos da arquitetura mvp. 
 
 ---
 
