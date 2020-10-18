@@ -24,7 +24,6 @@ Um projeto para colocar em prática todos os conceitos da arquitetura mvp.
 - [Retrofit Library](https://github.com/square/retrofit)
 - [Picasso Library](https://github.com/square/picasso)
 - [Android Studio](https://developer.android.com/studio)
-- [CardView](https://developer.android.com/guide/topics/ui/layout/cardview?hl=pt-br)
 - [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
   
 ---
