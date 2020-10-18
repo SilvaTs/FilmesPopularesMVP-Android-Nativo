@@ -1,7 +1,8 @@
 <h3 align="center">Aplicativo para Listar Filmes </h3>
 
 <h3 align="center"> 
-  <img src="https://ibb.co/Jj6t5JJ"> </img>
+  <img src="![filmes](https://user-images.githubusercontent.com/47439833/96356855-4149fd80-10c2-11eb-868d-945abee6ef70.JPG)
+"> </img>
 </h3>
 
 ---
